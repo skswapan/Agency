@@ -1,0 +1,1707 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #000000e6;
+    color: white;
+}
+.header{
+    display: inline-flex;
+}
+.logo{
+    display: inline-flex;
+}
+.logoimage{
+    margin-left: 18px;
+    margin-top: 5px;
+}
+.logoimage img{
+    width: 94px;
+}
+.logoheading{
+    margin-top: 21px;
+}
+.logoheading h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #90c317;
+    text-shadow: 1px 1px 2px orange;
+}
+
+.menubar{
+    margin-top: 10px;
+}
+.menubar nav{}
+.menubar nav ul{}
+.menubar nav ul li{
+    display: inline;
+}
+.sorejaw{
+    margin-left: 45px;
+}
+.menubar nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    text-transform: capitalize;
+    color: white;
+    font-size: 24px;
+    margin-right: 3px;
+    font-family: 'Courgette', cursive;
+}
+.menubar nav ul li a:hover{
+    color: #ff8100;
+    transition: 0.5s;
+}
+.hbutton{
+    width: 104px;
+    height: 35px;
+    padding-left: 3px;
+    padding-top: 3px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.hbutton button{
+    padding: 8px;
+    width: 101px;
+    background: orange;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+}
+.hbutton button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.banner{
+    display: inline-flex;
+    margin-top: 50px;
+    width: 100%;
+    border: 1px solid red;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 500px;
+    border-right: none;
+    margin-top: 1px;
+}
+.content{
+    width: 50%;
+    margin-left: 56px;
+}
+.content h1{
+    text-transform: capitalize;
+    font-size: 57px;
+    text-indent: 45px;
+    margin-top: 71px;
+    text-shadow: 2px 2px 4px #ff8100;
+    font-family: 'Playball', cursive;
+}
+.content h2{
+    text-transform: capitalize;
+    font-size: 60px;
+    margin-top: -18px;
+    text-indent: 121px;
+    text-shadow: 2px 2px 4px #ff8100;
+    font-family: 'Playball', cursive;
+}
+.orange{
+    color: #ff8100;
+    font-family: 'Neonderthaw', cursive;
+    font-size: 68px;
+}
+.hh{}
+.content p{
+    margin-top: 20px;
+    margin-left: 51px;
+}
+.content button{
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 188px;
+    margin-top: 30px;
+    background: #ff8100;
+    color: white;
+}
+.content button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.bimage{
+    width: 50%;
+}
+.bimage button{
+    padding: 164px;
+    width: 500px;
+    border: none;
+    background: url(../images/istockphoto-1587604256-170667a.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 161px;
+    border-bottom-left-radius: 171px;
+    margin-left: 119px;
+    margin-top: 45px;
+    box-shadow: -18px 0px 3px #ff8100;
+
+}
+
+.allcard{
+    display: inline-flex;
+    margin-top: -79px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.card{
+    width: 260px;
+    background: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #ff8413;
+}
+.cardone{
+    display: inline-flex;
+}
+.cardtwo{
+    display: inline-flex;
+}
+.soro{
+    margin-left: 48px;
+}
+.card h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-top: 17px;
+}
+.card p{
+    font-size: 15px;
+    margin-top: 18px;
+}
+.card button{
+    padding: 8px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: 12px;
+    background: #ff8100;
+    color: white;
+}
+.card button:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.cicon{}
+.cicon i{
+    font-size: 80px;
+    color: black;
+    text-shadow: 2px 2px 4px #ff8100;
+}
+::selection{
+    background: red;
+    color: white;
+}
+
+.projects{}
+.pheading{
+    width: 1189px;
+    background: white;
+    margin-left: 29px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-bottom: 20px;
+}
+.pheading h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: math;
+    color: #ff8100;
+    text-indent: 19px;
+    padding-top: 7px;
+}
+
+.owl{
+    width: 1189px;
+    background: white;
+    margin-left: 29px;
+    height: 365px;
+    margin-bottom: 5px;
+}
+.owl-carousel{
+    width: 95%;
+    margin-left: 24px;
+}
+.imageone{
+    width: 280px;
+    height: 300px;
+}
+.imageone img{
+    
+}
+.owl button{
+    padding: 8px;
+    width: 110px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    background: #ff8100;
+    color: white;
+    margin-left: 564px;
+    margin-top: -6px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.owl button:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.attachone{
+    width: 1189px;
+    margin-left: 29px;
+    height: 150px;
+    background: url(../images/1560779693461.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.sitebuilder{
+    width: 100%;
+    margin-top: 20px;
+}
+.allbuilder{
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.builderimage{
+    width: 50%;
+    
+}
+.builderimage img{
+    width: 35%;
+    margin-left: 181px;
+    margin-top: 11px;
+}
+.buildercontent{
+    background-color: #e44d26;
+    color: black;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 92px;
+    border-radius: 10px;
+}
+.csss{
+    background: #214ce5;
+}
+.jss{
+    background: #debc04;
+}
+.buildercontent h1{
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.buildercontent p{
+    margin-top: 10px;
+    text-align: justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+.buildercontent button{
+    padding: 8px;
+    width: 110px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    background: black;
+    color: white;
+    margin-top: 18px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.buildercontent button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.dekhi{
+    font-size: 100px;
+    margin-left: -101px;
+    margin-top: 50px;
+    color: #e44d26;
+}
+.abar{
+    color: #214ce5;
+}
+.abarr{
+    color: #debc04;
+}
+.sheader{
+    background: white;
+    padding: 16px;
+}
+.sheader h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: math;
+    color: #ff8100;
+    text-indent: 19px;
+    padding-top: 7px;
+}
+
+.team{
+    margin-top: 20px;
+    width: 400px;
+    background: black;
+    box-shadow: 1px 0px 5px #ff8100;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 2px solid #ff8100;
+    height: 373px;
+    margin-right: 20px;
+}
+.teammate{
+    display: inline-flex;
+}
+.team h3{
+    text-transform: capitalize;
+    font-size: 16px;
+    color: white;
+    margin-top: -100px;
+    margin-left: 8px;
+}
+.team p{
+    margin-top: 17px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    color: white;
+}
+.team button{
+    padding: 8px;
+    width: 110px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    background: #ff8100;
+    color: white;
+    margin-top: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-left: 130px;
+    margin-bottom: 12px;
+}
+.team button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.teamhead{}
+.teamhead h1{
+    text-transform: capitalize;
+    font-size: 35px;
+    margin-top: 10px;
+    color: #ff8100;
+    font-family: 'Playball';
+}
+.teamimage{
+    width: 150px;
+    height: 150px;
+    margin-left: 6px;
+}
+.teamimage img{
+    width: 100%;
+}
+.social{
+    font-size: 34px;
+    margin-top: 36px;
+    margin-left: 42px;
+    color: #ff8100;
+}
+.munna{
+    font-size: 33px !important;
+}
+.munnapic{
+    margin-left: 9px !important;
+}
+.munnap{
+    margin-top: 60px !important;
+}
+.amin{
+    margin-left: 22px !important;
+}
+.aminp{
+    margin-top: 61px !important;
+}
+.moin{
+    margin-left: 124px !important;
+}
+.moinp{
+    margin-top: 60px !important;
+}
+
+.noyonvaimunnavai{
+    display: inline-flex;
+    margin-left: 195px;
+}
+.aminvaimoinvai{
+    display: inline-flex;
+    margin-left: 195px;
+}
+.teammember{
+    background: ;
+    width: 100%;
+}
+.teamheading{
+    background: white;
+    padding: 17px;
+    border-bottom: 2px solid #4d4545;
+}
+.teamheading h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: math;
+    color: #ff8100;
+    text-indent: 19px;
+    padding-top: 7px;
+}
+.onno{
+    background: cadetblue !important;
+    margin-top: 60px;
+}
+.onnoamin{
+    margin-top: -23px;
+}
+
+.footer{
+    width: 100%;
+    background: #302f2f;
+    display: inline-flex;
+    height: 220px;
+    padding-top: 30px;
+}
+.fone{
+    width: 400px;
+    background: ;
+    margin-left: 148px;
+    border-right: 1px solid white;
+}
+.fone h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-top: -6px;
+    color: white;
+    font-family: 'Playball';
+}
+.foneone{
+    display: inline-flex;
+}
+.foneoneimg{}
+.foneoneimg img{
+    width: 86px;
+}
+.foneoneheading{
+    margin-top: 11px;
+}
+.foneoneheading h1{
+    text-transform: capitalize;
+    font-size: 44px;
+    color: #90c317;
+    text-shadow: 1px 1px 2px orange;
+    font-family: none;
+}
+.auto{
+    color: red;
+    text-transform: capitalize;
+}
+.fone p{
+    width: 71%;
+    color: white;
+}
+.ftwo{
+    width: 255px;
+    background: ;
+    border-right: 1px solid white;
+}
+.ftwo h1{
+    color: white;
+    text-transform: capitalize;
+    font-size: 28px;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    text-shadow: 2px 2px 3px red;
+    margin-left: 9px;
+}
+.ftwo p{
+    text-transform: capitalize;
+    color: white;
+    margin-left: 4px;
+    margin-bottom: 2px;
+    margin-left: 11px;
+}
+.ftwo p:hover{
+    color: red;
+    transition: 0.5s;
+}
+.fthree{
+    width: 400px;
+    background:;
+    margin-left: -122px;
+}
+.fthree h1{
+    color: white;
+    text-transform: capitalize;
+    font-size: 28px;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    text-align: center;
+    text-shadow: 2px 2px 3px red;
+}
+.fthree p{
+    margin-left: 158px;
+    margin-bottom: 17px;
+    color: white;
+}
+.ffour{
+    margin-left: -242px;
+    margin-top: 158px;
+    
+
+}
+.ffce{
+    font-size: 36px;
+    color: #ff8100;
+}
+.ftwtr{
+    font-size: 36px;
+    color: #ff8100;
+}
+.finst{
+    font-size: 36px;
+    color: #ff8100;
+}
+.call{
+    margin-top: -103px;
+    margin-left: 131px;
+    color: #ff8100;
+}
+.mail{
+    margin-left: 131px;
+    margin-top: 17px;
+    color: #ff8100;
+}
+.location{
+    margin-left: 133px;
+    margin-top: 16px;
+    color: #ff8100;
+}
+
+.aboutus{
+    width: 100%;
+    height: 493px;
+    border-bottom: 2px solid white;
+    margin-top: 10px;
+}
+.aheading{
+    background: white;
+    padding: 17px;
+    border-bottom: 2px solid #4d4545;
+
+}
+.aheading h1{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: math;
+    color: #ff8100;
+    text-indent: 19px;
+    padding-top: 7px;
+}
+.about{
+    display: inline-flex;
+}
+.aboutcontent{
+    background: ;
+    width: 50%;
+}
+.aboutcontent h1{
+    text-transform: capitalize;
+    font-size: 44px;
+    color: #90c317;
+    text-shadow: 1px 1px 2px orange;
+    text-align: center;
+}
+.aboutcontent p{
+    font-size: 14px;
+    padding-left: 40px;
+    padding-right: 32px;
+    background: #ffffff17;
+    width: 79%;
+    margin-left: 24px;
+    margin-top: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 7px white;
+    margin-bottom: 11px;
+}
+.aboutcontent i{
+    margin-left: 75px;
+    font-size: 48px;
+    margin-top: 13px;
+    color: red;
+    text-shadow: 2px 1px 2px white;
+}
+.aboutcontent button{
+    padding: 8px;
+    width: 135px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    background: #ff0000c2;
+    box-shadow: 1px 1px 5px white;
+    color: white;
+    margin-top: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-left: 242px;
+    margin-bottom: 12px;
+}
+.aboutcontent button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.aboutvideo{
+    width: 50%;
+}
+.aboutvideo iframe{
+    width: 100%;
+    height: 100%;
+}
+.mappp{
+    height: 220px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.mappp iframe{
+    width: 78%;
+    height: 100%;
+    border: 2px solid white !important;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 126px;
+}
+
+.signup{
+    margin-top: 20px;
+    display: inline-flex;
+    width: 100%;
+    background: url(../images/happy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form{
+    width: 400px;
+    background: #00000091;
+    box-shadow: 5px 5px 7px orange;
+    margin-left: 94px;
+    border-radius: 10px;
+}
+.formhead{
+    display: inline-flex;
+}
+.flogo{
+    margin-left: 70px;
+}
+.flogo img{
+    width: 100px;
+}
+.fhead{
+    margin-top: 21px;
+}
+.fhead h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #90c317;
+    text-shadow: 1px 1px 2px orange;
+    margin-left: -5px;
+}
+.form input{
+    width: 87%;
+    padding: 8px;
+    margin-bottom: 9px;
+    margin-left: 17px;
+    background: white;
+    border: none;
+    box-shadow: 0px 0px 5px black;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-family: math;
+    font-weight: 700;
+}
+.form button{
+    padding: 8px;
+    width: 110px;
+    text-transform: capitalize;
+    font-weight: 700;
+    border: none;
+    background: #ff8100;
+    box-shadow: 1px 1px 5px white;
+    color: white;
+    margin-top: 6px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-left: 129px;
+    margin-bottom: 12px;
+}
+.form button:hover{
+    background: white;
+    color: black;
+    transition: 0.5s;
+}
+.simage{
+    margin-left: 42px;
+    margin-top: 17px;
+}
+.simage img{
+    border: 2px solid orange;
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px orange;
+}
+.alada{
+    padding-bottom: 52px !important;
+}
+
+
+@media screen and (min-width:320px) and (max-width:425px){
+
+
+    h1,h2,h3,h4,h5,h6,p{
+        
+    }
+    body{
+        
+    }
+    .header{
+       display: inline-block;
+    }
+    .logo{
+        
+    }
+    .logoimage{
+        
+    }
+    .logoimage img{
+        
+    }
+    .logoheading{
+        
+    }
+    .logoheading h1{
+        
+    }
+    
+    .menubar{
+        display: none;
+    }
+    .menubar nav{}
+    .menubar nav ul{}
+    .menubar nav ul li{
+       
+    }
+    .sorejaw{
+        
+    }
+    .menubar nav ul li a{
+        
+    }
+    .menubar nav ul li a:hover{
+        
+    }
+    .hbutton{
+       display: none;
+    }
+    .hbutton button{
+        
+    }
+    .hbutton button:hover{
+       
+    }
+    .banner{
+        width: 100%;
+        border: 2px solid red;
+        border-radius: 10px;
+    }
+    .content{
+        margin-left: 28px;
+        width: 100%;
+    }
+    .content h1{
+        font-size: 7vw;
+    }
+    .content h2{
+        text-indent: 46px;
+        font-size: 8vw;
+        margin-top: 1px;
+    }
+    .orange{
+        font-size: 15vw;
+    }
+    .content p{
+        margin-left: 0px;
+    }
+    .content button{
+        margin-left: 70px;
+    }
+    .content button:hover{
+       
+    }
+    .bimage{
+       display: none;
+    }
+    .bimage button{
+        display: none;
+    
+    }
+    
+    .allcard{
+        display: inline-block;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .card{
+       margin-bottom: 10px;
+       margin-left: 28px;
+    }
+    .cardone{
+        display: inline-block;
+    }
+    .cardtwo{
+        display: inline-block;
+    }
+    .soro{
+        margin-left: 28px;
+    }
+    .card h1{
+        
+    }
+    .card p{
+        
+    }
+    .card button{
+        
+    }
+    .card button:hover{
+        
+    }
+    .cicon{}
+    .cicon i{
+       
+    }
+    ::selection{
+        
+    }
+    
+    .projects{}
+    .pheading{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .pheading h1{
+        font-size: 9vw;
+    }
+    
+    .owl{
+       width: 100%;
+       margin-left: 0px;
+    }
+    .owl-carousel{
+       margin-left: 0px;
+    }
+    .imageone{
+        
+    }
+    .imageone img{
+        
+    }
+    .owl button{
+        margin-left: 110px;
+    }
+    .owl button:hover{
+        
+    }
+    .attachone{
+        display: none;
+    }
+    .sitebuilder{
+       
+    }
+    .allbuilder{
+       
+    }
+    .builderimage{
+       
+        
+    }
+    .builderimage img{
+        margin-top: 79px;
+    }
+    .buildercontent{
+        
+    }
+    .csss{
+        
+    }
+    .jss{
+       
+    }
+    .buildercontent h1{
+       
+    }
+    .buildercontent p{
+        
+    }
+    .buildercontent button{
+       
+    }
+    .buildercontent button:hover{
+        
+    }
+    .dekhi{
+       
+    }
+    .abar{
+        
+    }
+    .abarr{
+       
+    }
+    .sheader{
+        
+    }
+    .sheader h1{
+       font-size: 9vw;
+       
+    }
+    
+    .team{
+        width: 100%;
+        display: none;
+    }
+    .teammate{
+        
+    }
+    .team h3{
+        font-size: 4vw;
+    }
+    .team p{
+       
+    }
+    .team button{
+       
+    }
+    .team button:hover{
+        
+    }
+    .teamhead{}
+    .teamhead h1{
+        font-size: 5vw;
+    }
+    .teamimage{
+        
+    }
+    .teamimage img{
+        
+    }
+    .social{
+       
+    }
+    .munna{
+        
+    }
+    .munnapic{
+        
+    }
+    .munnap{
+        
+    }
+    .amin{
+       
+    }
+    .aminp{
+        
+    }
+    .moin{
+        
+    }
+    .moinp{
+        
+    }
+    
+    .noyonvaimunnavai{
+        display: inline-block;
+        margin-left: 0px;
+    }
+    .aminvaimoinvai{
+        display: inline-block;
+        margin-left: 0px;
+    }
+    .teammember{
+        display: none;
+    }
+    .teamheading{
+       
+    }
+    .teamheading h1{
+       font-size: 8vw;
+    }
+    .onno{
+       margin-top: 19px;
+    }
+    .onnoamin{
+        margin-top: 19px;
+        width: 100%;
+    }
+    
+    .footer{
+       display: none;
+    }
+    .fone{
+       
+    }
+    .fone h1{
+        
+    }
+    .foneone{
+       
+    }
+    .foneoneimg{}
+    .foneoneimg img{
+       
+    }
+    .foneoneheading{
+       
+    }
+    .foneoneheading h1{
+        
+    }
+    .auto{
+      
+    }
+    .fone p{
+      
+    }
+    .ftwo{
+      
+    }
+    .ftwo h1{
+      
+    }
+    .ftwo p{
+       
+    }
+    .ftwo p:hover{
+      
+    }
+    .fthree{
+  
+    }
+    .fthree h1{
+        
+    }
+    .fthree p{
+       
+    }
+    .ffour{
+      
+        
+    
+    }
+    .ffce{
+      
+    }
+    .ftwtr{
+      
+    }
+    .finst{
+       
+    }
+    .call{
+       
+    }
+    .mail{
+     
+    }
+    .location{
+        
+    }
+    
+    .aboutus{
+       
+    }
+    .aheading{
+       
+    
+    }
+    .aheading h1{
+      text-indent: 28px;
+    }
+    .about{
+       display: inline-block;
+       width: 100%;
+    }
+    .aboutcontent{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .aboutcontent h1{
+        
+    }
+    .aboutcontent p{
+        margin-left: 0px;
+    }
+    .aboutcontent i{
+        margin-left: 73px;
+    }
+    .aboutcontent button{
+       margin-left: 98px;
+    }
+    .aboutcontent button:hover{
+       
+    }
+    .aboutvideo{
+       width: 100%;
+    }
+    .aboutvideo iframe{
+      width: 100%;
+    }
+    .mappp{
+        margin-top: 430px;
+    }
+    .mappp iframe{
+       margin-left: 0px;
+       width: 100%;
+    }
+    
+    .signup{
+       display: inline-block;
+       background: transparent;
+    }
+    
+    .form{
+       margin-left: 0px;
+       width: 100%;
+    }
+    .formhead{
+        
+    }
+    .flogo{
+        margin-left: 40px;
+    }
+    .flogo img{
+        
+    }
+    .fhead{
+        
+    }
+    .fhead h1{
+        
+    }
+    .form input{
+        margin-left: 13px;
+    }
+    .form button{
+        margin-left: 113px;
+    }
+    .form button:hover{
+        
+    }
+    .simage{
+        display: none;
+    }
+    .simage img{
+       
+    }
+    .alada{
+        
+    }
+}
+
+
+
+@media screen and (min-width:426px) and (max-width:768px){
+
+
+    h1,h2,h3,h4,h5,h6,p{
+        
+    }
+    body{
+        
+    }
+    .header{
+       display: inline-block;
+    }
+    .logo{
+        margin-left: 238px;
+    }
+    .logoimage{
+        
+    }
+    .logoimage img{
+        
+    }
+    .logoheading{
+        
+    }
+    .logoheading h1{
+        
+    }
+    
+    .menubar{
+        
+    }
+    .menubar nav{}
+    .menubar nav ul{}
+    .menubar nav ul li{
+       
+    }
+    .sorejaw{
+        margin-left: 0px;
+    }
+    .menubar nav ul li a{
+        
+    }
+    .menubar nav ul li a:hover{
+        
+    }
+    .hbutton{
+       display: none;
+    }
+    .hbutton button{
+        
+    }
+    .hbutton button:hover{
+       
+    }
+    .banner{
+        width: 100%;
+    }
+    .content{
+        width: 32%;
+        margin-left: 18px;
+    }
+    .content h1{
+        font-size: 6vw;
+    }
+    .content h2{
+        text-indent: 36px;
+        font-size: 7vw;
+        margin-top: 1px;
+    }
+    .hh{
+        margin-left: 50px;
+    }
+    .orange{
+        
+    }
+    .content p{
+        display: none;
+    }
+    .content button{
+        margin-left: 49px;
+        margin-top: 28px;
+    }
+    .content button:hover{
+       
+    }
+    .bimage{
+       
+    }
+    .bimage button{
+        width: 372px;
+    
+    }
+    
+    .allcard{
+        margin-top: 15px;
+        width: 100%;
+    }
+    .card{
+       margin-bottom: 10px;
+       margin-right: 20px;
+    }
+    .cardone{
+        display: inline-block;
+        margin-left: 84px;
+        
+    }
+    .cardtwo{
+        display: inline-block;
+    }
+    .soro{
+        margin-left: 0px;
+    }
+    .card h1{
+        
+    }
+    .card p{
+        
+    }
+    .card button{
+        
+    }
+    .card button:hover{
+        
+    }
+    .cicon{}
+    .cicon i{
+       
+    }
+    ::selection{
+        
+    }
+    
+    .projects{}
+    .pheading{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .pheading h1{
+        
+    }
+    
+    .owl{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .owl-carousel{
+        
+    }
+    .imageone{
+        
+    }
+    .imageone img{
+        
+    }
+    .owl button{
+        margin-left: 328px;
+    }
+    .owl button:hover{
+        
+    }
+    .attachone{
+        display: none;
+    }
+    .sitebuilder{
+       
+    }
+    .allbuilder{
+       
+    }
+    .builderimage{
+       
+        
+    }
+    .builderimage img{
+        margin-top: 65px;
+        margin-left: 74px;
+    }
+    .buildercontent{
+        
+    }
+    .csss{
+        
+    }
+    .jss{
+       
+    }
+    .buildercontent h1{
+       
+    }
+    .buildercontent p{
+        
+    }
+    .buildercontent button{
+        margin-top: 6px;
+    }
+    
+    .buildercontent button:hover{
+        
+    }
+    .dekhi{
+       
+    }
+    .abar{
+        
+    }
+    .abarr{
+       
+    }
+    .sheader{
+        
+    }
+    .sheader h1{
+       
+    }
+    
+    .team{
+        display: none;
+    }
+    .teammate{
+        
+    }
+    .team h3{
+        
+    }
+    .team p{
+       
+    }
+    .team button{
+       
+    }
+    .team button:hover{
+        
+    }
+    .teamhead{
+        
+    }
+    .teamhead h1{
+        
+    }
+    .teamimage{
+        
+    }
+    .teamimage img{
+        
+    }
+    .social{
+       
+    }
+    .munna{
+        
+    }
+    .munnapic{
+        
+    }
+    .munnap{
+        
+    }
+    .amin{
+       
+    }
+    .aminp{
+        
+    }
+    .moin{
+        
+    }
+    .moinp{
+        
+    }
+    
+    .noyonvaimunnavai{
+        margin-left: 0px;
+        display: inline-block;
+    }
+    .aminvaimoinvai{
+        margin-left: 0px;
+        display: inline-block;
+    }
+    .teammember{
+        
+    }
+    .teamheading{
+       display: none;
+    }
+    .teamheading h1{
+       
+    }
+    .onno{
+       
+    }
+    .onnoamin{
+        
+    }
+    
+    .footer{
+       display: none;
+    }
+    .fone{
+       
+    }
+    .fone h1{
+        
+    }
+    .foneone{
+       
+    }
+    .foneoneimg{}
+    .foneoneimg img{
+       
+    }
+    .foneoneheading{
+       
+    }
+    .foneoneheading h1{
+        
+    }
+    .auto{
+      
+    }
+    .fone p{
+      
+    }
+    .ftwo{
+      
+    }
+    .ftwo h1{
+      
+    }
+    .ftwo p{
+       
+    }
+    .ftwo p:hover{
+      
+    }
+    .fthree{
+  
+    }
+    .fthree h1{
+        
+    }
+    .fthree p{
+       
+    }
+    .ffour{
+      
+        
+    
+    }
+    .ffce{
+      
+    }
+    .ftwtr{
+      
+    }
+    .finst{
+       
+    }
+    .call{
+       
+    }
+    .mail{
+     
+    }
+    .location{
+        
+    }
+    
+    .aboutus{
+       border-bottom: none;
+    }
+    .aheading{
+       
+    
+    }
+    .aheading h1{
+      text-align: center;
+    }
+    .about{
+       display: inline-block;
+    }
+    .aboutcontent{
+        width: 100%;
+    }
+    .aboutcontent h1{
+        
+    }
+    .aboutcontent p{
+        margin-left: 41px;
+
+    }
+    .aboutcontent i{
+        margin-left: 101px;
+    }
+    .aboutcontent button{
+        margin-left: 332px;
+    }
+    .aboutcontent button:hover{
+       
+    }
+    .aboutvideo{
+        width: 100%;
+        height: 212px;
+    }
+    .aboutvideo iframe{
+      
+    }
+    .mappp{
+        margin-top: 229px;
+        width: 100%;
+    }
+    .mappp iframe{
+       width: 100%;
+       margin-left: 0px;
+    }
+    
+    .signup{
+       display: inline-block;
+    }
+    
+    .form{
+        margin-left: 176px;
+    }
+    .formhead{
+        
+    }
+    .flogo{
+        
+    }
+    .flogo img{
+        
+    }
+    .fhead{
+        
+    }
+    .fhead h1{
+        
+    }
+    .form input{
+        
+    }
+    .form button{
+        margin-left: 140px;
+    }
+    .form button:hover{
+        
+    }
+    .simage{
+        display: none;
+    }
+    .simage img{
+       
+    }
+    .alada{
+        
+    }
+}
